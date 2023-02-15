@@ -9,6 +9,13 @@
 .container h2 {
   color: magenta;
   background-color: yellow;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.container h2 a {
+  text-decoration: none;
+  color: red;
 }
 
 .container p {
