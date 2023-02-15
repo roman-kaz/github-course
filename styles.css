@@ -13,6 +13,11 @@
   padding-bottom: 10px;
 }
 
+.container h2:hover {
+  background-color: brown;
+  color: aqua;
+}
+
 .container h2 a {
   text-decoration: none;
   color: red;
